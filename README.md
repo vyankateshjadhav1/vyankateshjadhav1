@@ -203,11 +203,7 @@ Me:    ...
 
 ---
 
-## 🐍 Contribution Snake
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/vyankateshjadhav1/vyankateshjadhav1/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my contributions" />
-</div>
 
 ---
 
