@@ -43,18 +43,7 @@ class VyankateshJadhav:
 
 ---
 
-## 🏆 Achievements (aka Flexes)
 
-<div align="center">
-
-| 🥇 | Achievement |
-|---|---|
-| 🏆 **1st Prize × 2** | Nirmaan Hackathon (VIIT) + CodeLite 2.0 Hackathon – Agentic AI Track |
-| 📄 **IEEE Paper** | Autonomous UAV systems using ResNetV8 + RosDQN – ICCUBHE 2025 |
-| 📄 **IEEE Paper** | Langic.ai – Automated First Responder – Emerging Tech & Future Innovations 2026 |
-| 💻 **LeetCode** | 300+ problems (and counting) |
-
-</div>
 
 ---
 
